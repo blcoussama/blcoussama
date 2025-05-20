@@ -1,5 +1,5 @@
 # 🧑‍🎓 À propos de moi :
-Étudiant en ingénierie informatique et réseaux à l’EMSI - École Marocaine des Sciences de l’Ingénieur, passionné par les technologies, le développement logiciel
+Étudiant en ingénierie informatique et réseaux à l’EMSI - École Marocaine des Sciences de l’Ingénieur, passionné par le Développement Logiciel
 
 
 # 💻 Tech Stack :
